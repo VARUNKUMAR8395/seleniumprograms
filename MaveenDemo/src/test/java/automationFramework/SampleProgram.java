@@ -7,6 +7,7 @@ public class SampleProgram {
 
 		
 		System.out.println("today is sunday");
+		System.out.println("today is monday");
 	}
 
 }
